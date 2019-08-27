@@ -1,6 +1,6 @@
 #!/bin/bash
 # Twitter v1.0.0
-# Coded by: https://github.com/MilleCJ
+# Coded by: https://github.com/Dark-Balck-Hat
 trap 'store;exit 1' 2
 
 checkroot() {
@@ -27,7 +27,7 @@ printf "\e[1;36m    _| || |_    | \ \ /\ / / _ \/ _ \ __\e[1;92m/ __| '_ \ / _ \
 printf "\e[1;36m   |_  __  _|   | |\ V  V /  __/  __/ |_\e[1;92m\__ \ | | |  __/ | | \e[0m\n"
 printf "\e[1;36m     |_||_|     \_/ \_/\_/ \___|\___|\__\e[1;92m|___/_| |_|\___|_|_| \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[44m Twitter BruteForcer v1.0.0 Author: MilleCJ\e[0m\n"
+printf "\e[1;77m\e[44m Twitter BruteForcer v1.0.0 Author:1.0.0 Dark-Balck-Hat\e[0m\n"
 printf "\n"
 }
 
